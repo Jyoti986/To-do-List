@@ -51,7 +51,7 @@
     padding: 10px;
 }
 
-button{
+.row button{
     border: none;
     outline: none;
     padding: 16px 50px;
@@ -106,4 +106,10 @@ ul li span{
     line-height: 40px;
     text-align: center;
 
+}
+
+ul li span:hover{
+    background: #edeef0;
+    border-radius: 50px;
+    
 }
